@@ -91,14 +91,14 @@
 
 <div>
 	<nav>
-		<a href="/" class="logo"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.wallpapersden.com%2Fimage%2Fdownload%2Flofoten-norway_bGdlbGuUmZqaraWkpJRobWllrWdma2U.jpg&f=1&nofb=1&ipt=02df2dad3d3484a9cc57c13c9b2c065f1bdd44710fe34cab98dee464f5c8a884&ipo=images" alt="Xandaland's pfp"></a>
+		<a href="/" class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Android_11_Developer_Preview_logo.svg/2048px-Android_11_Developer_Preview_logo.svg.png" alt="rvc11's pfp"></a>
 		<Fluent.Button href="/" style="margin-right: 14px;">Home</Fluent.Button>
 		<Fluent.Button href="/plans" style="margin-right: 14px;" variant="hyperlink">Plans</Fluent.Button>
 		<Fluent.Button href="/contact" variant="hyperlink">Contact me</Fluent.Button>
 	</nav>
 	<main>
 		<h1>Welcome to my website</h1>
-		<p>Hello, I'm RedVelvetCake11 (a.k.a. rvc11), I like to write code.</p>
+		<p>Hello, I'm rvc11, I like to write code.</p>
 		<Fluent.InfoBar style="max-width: 768px; margin: 0 auto; text-align: left" severity="caution" title="Important!">This website is under construction. It's my first time making an website using Svelte. Thank you for your patience.</Fluent.InfoBar>
 	</main>
 	<footer>
