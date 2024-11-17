@@ -98,7 +98,7 @@
 	</nav>
 	<main>
 		<h1>Welcome to my website</h1>
-		<p>Hello, I'm Xandaland (a.k.a. pi19044), I like to write code.</p>
+		<p>Hello, I'm RedVelvetCake11 (a.k.a. rvc11), I like to write code.</p>
 		<Fluent.InfoBar style="max-width: 768px; margin: 0 auto; text-align: left" severity="caution" title="Important!">This website is under construction. It's my first time making an website using Svelte. Thank you for your patience.</Fluent.InfoBar>
 	</main>
 	<footer>
@@ -106,7 +106,6 @@
 		<Fluent.Button href="https://kit.svelte.dev" variant="hyperlink" style="margin-top: 10px; margin-bottom: 10px">SvelteKit</Fluent.Button>
 		<Fluent.Button href="https://fluent-svelte.vercel.app/" variant="hyperlink" style="margin-bottom: 10px">Fluent Svelte</Fluent.Button>
 		<h5 style="margin: 0px; margin-bottom: 10px">Made and contributed by:</h5>
-                <Fluent.Button href="/" variant="hyperlink" style="margin-bottom: 10px">PrelevatedInsider19044</Fluent.Button>
-		<Fluent.Button href="https://user0.is-a.dev/" variant="hyperlink" style="margin-bottom: 10px">User0</Fluent.Button>
+                <Fluent.Button href="/" variant="hyperlink" style="margin-bottom: 10px">RedVelvetCake11</Fluent.Button>
 	</footer>
 </div>
