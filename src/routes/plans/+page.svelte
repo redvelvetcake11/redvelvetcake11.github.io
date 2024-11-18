@@ -84,8 +84,7 @@
 
 <div>
 	<nav>
-		<a href="/" class="logo"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.wallpapersden.com%2Fimage%2Fdownload%2Flofoten-norway_bGdlbGuUmZqaraWkpJRobWllrWdma2U.jpg&f=1&nofb=1&ipt=02df2dad3d3484a9cc57c13c9b2c065f1bdd44710fe34cab98dee464f5c8a884&ipo=images" alt="Xandaland's pfp"></a>
-		<Fluent.Button href="/" style="margin-right: 14px;" variant="hyperlink">Home</Fluent.Button>
+		<a href="/" class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Android_11_Developer_Preview_logo.svg/2048px-Android_11_Developer_Preview_logo.svg.png" alt="rvc11's pfp"></a>		<Fluent.Button href="/" style="margin-right: 14px;" variant="hyperlink">Home</Fluent.Button>
 		<Fluent.Button href="/plans" style="margin-right: 14px;">Plans</Fluent.Button>
 		<Fluent.Button href="/contact" variant="hyperlink">Contact me</Fluent.Button>
 	</nav>
