@@ -91,9 +91,9 @@
 	<main>
 		<h1>Plans</h1>
 		<ul>
-			<Fluent.Checkbox disabled>Completing ZincChat</Fluent.Checkbox>
+			<Fluent.Checkbox disabled>Completing TwilightChat</Fluent.Checkbox>
 			<br>
-			<Fluent.Checkbox disabled>Making Project Inkball</Fluent.Checkbox>
+			<Fluent.Checkbox disabled>Making Amethyst and Aurora</Fluent.Checkbox>
 		</ul>
 	</main>
 	<footer>
@@ -101,7 +101,6 @@
 		<Fluent.Button href="https://kit.svelte.dev" variant="hyperlink" style="margin-top: 10px; margin-bottom: 10px">SvelteKit</Fluent.Button>
 		<Fluent.Button href="https://fluent-svelte.vercel.app/" variant="hyperlink" style="margin-bottom: 10px">Fluent Svelte</Fluent.Button>
 		<h5 style="margin: 0px; margin-bottom: 10px">Made and contributed by:</h5>
-                <Fluent.Button href="/" variant="hyperlink" style="margin-bottom: 10px">PrelevatedInsider19044</Fluent.Button>
-		<Fluent.Button href="https://user0.is-a.dev/" variant="hyperlink" style="margin-bottom: 10px">User0</Fluent.Button>
+                <Fluent.Button href="/" variant="hyperlink" style="margin-bottom: 10px">RedVelvetCake11</Fluent.Button>
 	</footer>
 </div>
