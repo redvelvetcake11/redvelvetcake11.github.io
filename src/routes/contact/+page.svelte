@@ -85,7 +85,7 @@
 
 <div>
 	<nav>
-		<a href="{base}/" class="logo"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.wallpapersden.com%2Fimage%2Fdownload%2Flofoten-norway_bGdlbGuUmZqaraWkpJRobWllrWdma2U.jpg&f=1&nofb=1&ipt=02df2dad3d3484a9cc57c13c9b2c065f1bdd44710fe34cab98dee464f5c8a884&ipo=images" alt="Xandaland's pfp"></a>
+		<a href="/" class="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Android_11_Developer_Preview_logo.svg/2048px-Android_11_Developer_Preview_logo.svg.png" alt="rvc11's pfp"></a>
 		<Fluent.Button href="{base}/" style="margin-right: 14px;" variant="hyperlink">Home</Fluent.Button>
 		<Fluent.Button href="{base}/plans" style="margin-right: 14px;" variant="hyperlink">Plans</Fluent.Button>
 		<Fluent.Button href="{base}/contact">Contact me</Fluent.Button>
@@ -95,15 +95,14 @@
 		<p>You can contact me on these:</p>
         	<Fluent.Button onClick="window.open('https://twitter.com/PrelevatedIns', '_blank')">Twitter</Fluent.Button>
 		<Fluent.Button onClick="window.open('mailto:membermadde.insiddev25120@hotmail.com', '_blank')">Hotmail</Fluent.Button>
-		<Fluent.Button onClick="window.open('https://github.com/pi19044', '_blank')">GitHub</Fluent.Button>
-		<Fluent.Button onClick="window.open('https://discord.gg/sdj573h93u', '_blank')">Discord</Fluent.Button>
+		<Fluent.Button onClick="window.open('https://github.com/redvelvetcake11', '_blank')">GitHub</Fluent.Button>
+		<Fluent.Button onClick="window.open('https://app.revolt.chat/swzkRmn0', '_blank')">Revolt</Fluent.Button>
 	</main>
 	<footer>
 		<h5 style="margin: 0px; margin-top: 10px">Powered by:</h5>
 		<Fluent.Button href="https://kit.svelte.dev" variant="hyperlink" style="margin-top: 10px; margin-bottom: 10px">SvelteKit</Fluent.Button>
 		<Fluent.Button href="https://fluent-svelte.vercel.app/" variant="hyperlink" style="margin-bottom: 10px">Fluent Svelte</Fluent.Button>
 		<h5 style="margin: 0px; margin-bottom: 10px">Made and contributed by:</h5>
-                <Fluent.Button href="/" variant="hyperlink" style="margin-bottom: 10px">PrelevatedInsider19044</Fluent.Button>
-		<Fluent.Button href="https://user0.is-a.dev/" variant="hyperlink" style="margin-bottom: 10px">User0</Fluent.Button>
+                <Fluent.Button href="/" variant="hyperlink" style="margin-bottom: 10px">RedVelvetCake11</Fluent.Button>
 	</footer>
 </div>
